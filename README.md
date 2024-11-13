@@ -1,0 +1,2 @@
+# code-standard
+Code Rules
